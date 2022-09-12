@@ -1,2 +1,2 @@
 # Python-Tutorial
- You can find some base python base codes inside.
+ You can find some Python base codes inside.
